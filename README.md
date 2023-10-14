@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Farzam1372
 - 👀 I’m interested in Data science and Machine learning
 - 🌱 I’m currently learning Master industrial engineering and international management focus on Data Science and AI
-- 💞️ I’m looking to collaborate in Data scientit position
+- 💞️ I’m looking to collaborate in Data Science position
 - 📫 How to reach me Farzamnazari.mec@gmail.com
 
 <!---
